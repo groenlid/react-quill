@@ -38,9 +38,6 @@
   "dependencies": {
     "quill": "^0.19.12"
   },
-  "peerDependencies": {
-    "react": ">=0.11.0"
-  },
   "devDependencies": {
     "blanket": "^1.1.6",
     "jsdom": "^1.2.1",
